@@ -35,7 +35,7 @@ Complete the following exercises and demo them to your tutor to get marked. The 
 **Exercise 1:**  
 Complete each of the following lines with one line of Python code **(3 Marks)**
 
-Given a list of numbers (e.g., numbers = [2, 4, -23, 2, 95, 21]), print:
+Given a list of numbers (e.g., numbers = [2, 4, -23, 2, 95, 21]), return:
 
  - reverse of the list
  - largest number
@@ -51,12 +51,12 @@ The starter code for this exercise is in the  `numbers_list.py`  file.
  * ***Bonus Extension:***  Write a Python program which given a list of numbers finds the kth smallest number in the list   **(2 Marks)**
  
 **Exercise 3:**  
-* Given a paragraph of text, count the number of times each character occurs in the text, and print out each character and its count (in any order).  **(2 Marks)**
+* Given a paragraph of text, count the number of times each character occurs in the text, and return each character and its count (in any order).  **(2 Marks)**
 * Now, implement the above program so that it works in a case-insensitive manner with the alphabets **(2 Marks)**
 * ***Bonus Extension:*** Now, return  the list in the descending order of the count **(2 Marks)**
 The starter code for this exercise is in the  `count.py`  file. 
 
-**Exercise 4:**  Fibonacci extension - Print the nth number in the fibonacci series given the index n  **(3 Marks)**
+**Exercise 4:**  Fibonacci extension - Return the nth number in the fibonacci series given the index n  **(3 Marks)**
  
 Last week, you were asked to complete a Python exercise that produced a list of Fibonacci numbers of size  _n_, where n is provided. In this exercise, you are required to write a program that reads a number n and return the nth number in the Fibonacci series. The program must make use of a  **recursive function**  to implement this task
 
