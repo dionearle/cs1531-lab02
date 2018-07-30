@@ -53,12 +53,12 @@ The starter code for this exercise is in the  `numbers_list.py`  file.
 **Exercise 3:**  
 * Given a paragraph of text, count the number of times each character occurs in the text, and print out each character and its count (in any order).  **(2 Marks)**
 * Now, implement the above program so that it works in a case-insensitive manner with the alphabets **(2 Marks)**
-* ***Bonus Extension:*** Now, print in the descending order of the count **(2 Marks)**
+* ***Bonus Extension:*** Now, return  the list in the descending order of the count **(2 Marks)**
 The starter code for this exercise is in the  `count.py`  file. 
 
 **Exercise 4:**  Fibonacci extension - Print the nth number in the fibonacci series given the index n  **(3 Marks)**
  
-Last week, you were asked to complete a Python exercise that produced a list of Fibonacci numbers of size  _n_, where n is provided. In this exercise, you are required to write a program that reads a number n and prints the nth number in the Fibonacci series. The program must make use of a  **recursive function**  to implement this task
+Last week, you were asked to complete a Python exercise that produced a list of Fibonacci numbers of size  _n_, where n is provided. In this exercise, you are required to write a program that reads a number n and return the nth number in the Fibonacci series. The program must make use of a  **recursive function**  to implement this task
 
 The Fibonacci series in this program should start from one. The first 10 numbers are shown below:
 
