@@ -51,9 +51,9 @@ The starter code for this exercise is in the  `numbers_list.py`  file.
  * ***Bonus Extension:***  Write a Python program which given a list of numbers finds the kth smallest number in the list   **(2 Marks)**
  
 **Exercise 3:**  
-* Given a paragraph of text, count the number of times each character occurs in the text, and return each character and its count (in any order).  **(2 Marks)**
+* Given a paragraph of text, count the number of times each character occurs in the text, and print each character and its count (in any order).  **(2 Marks)**
 * Now, implement the above program so that it works in a case-insensitive manner with the alphabets **(2 Marks)**
-* ***Bonus Extension:*** Now, return  the list in the descending order of the count **(2 Marks)**
+* ***Bonus Extension:*** Now, print the list in the descending order of the count **(2 Marks)**
 The starter code for this exercise is in the  `count.py`  file. 
 
 **Exercise 4:**  Fibonacci extension - Return the nth number in the fibonacci series given the index n  **(3 Marks)**
