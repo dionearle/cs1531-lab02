@@ -53,7 +53,7 @@ The starter code for this exercise is in the  `numbers_list.py`  file.
 **Exercise 3:**  
 * Given a paragraph of text, count the number of times each character occurs in the text, and print each character and its count (in any order).  **(2 Marks)**
 * Now, implement the above program so that it works in a case-insensitive manner with the alphabets **(2 Marks)**
-* ***Bonus Extension:*** Now, print the list in the descending order of the count (case-sensitive) **(2 Marks)**
+* ***Bonus Extension:*** Now, print the list in the descending order of the count (case-insensitive) **(2 Marks)**
 The starter code for this exercise is in the  `count.py`  file. 
 
 
