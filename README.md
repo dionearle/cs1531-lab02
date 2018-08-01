@@ -57,7 +57,7 @@ The starter code for this exercise is in the  `numbers_list.py`  file.
 The starter code for this exercise is in the  `count.py`  file. 
 
 
-_Do:_ count_char_ordered('Hello,World!')  
+_Do:_ count_char_ordered('HelloWorld!')  
 _Output:_  
 l 3  
 o 2  
