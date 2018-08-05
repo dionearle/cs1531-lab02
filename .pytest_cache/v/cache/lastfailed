@@ -1,0 +1,6 @@
+{
+  "test_count.py::test_count_char": true,
+  "test_count.py::test_count_char_insensitive": true,
+  "test_count.py::test_count_char_ordered": true,
+  "test_fib.py::test_fib": true
+}
